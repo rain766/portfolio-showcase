@@ -29,70 +29,70 @@ See the app in action at www.jurnee.dpdns.org.
 ### **Map Page**:
 
 <p align="left">
- <img src="https://github.com/mel-ozkul/COMP47360/blob/main/additional-resources/features-images/map-page.png" height="250" style="border:1px solid #fff; padding:5px;">
- <img src="https://github.com/mel-ozkul/COMP47360/blob/main/additional-resources/features-images/map-page-2.png" height="250" style="border:1px solid #fff; padding:5px;">
+  <img src="./features-images/map-page.png" height="250" style="border:1px solid #fff; padding:5px;">
+  <img src="./features-images/map-page-2.png" height="250" style="border:1px solid #fff; padding:5px;">
 </p>
 
 ### **User Input (Date & Location)**:
 
 <p align="left">
- <img src="https://github.com/mel-ozkul/COMP47360/blob/main/additional-resources/features-images/datepicker.png" height="250" style="border:1px solid #fff; padding:5px;">
- <img src="https://github.com/mel-ozkul/COMP47360/blob/main/additional-resources/features-images/location-input.png" height="250" style="border:1px solid #fff; padding:5px;">
+  <img src="./features-images/datepicker.png" height="250" style="border:1px solid #fff; padding:5px;">
+  <img src="./features-images/location-input.png" height="250" style="border:1px solid #fff; padding:5px;">
 </p>
 
 ### **Weather**:
 
 <p align="left">
- <img src="https://github.com/mel-ozkul/COMP47360/blob/main/additional-resources/features-images/weather.png" height="250" style="border:1px solid #fff; padding:5px;">
+  <img src="./features-images/weather.png" height="250" style="border:1px solid #fff; padding:5px;">
 </p>
 
 ### **Destination Search**:
 
 <p align="left">
- <img src="https://github.com/mel-ozkul/COMP47360/blob/main/additional-resources/features-images/destination-search.png" height="250" style="border:1px solid #fff; padding:5px;">
+  <img src="./features-images/destination-search.png" height="250" style="border:1px solid #fff; padding:5px;">
 </p>
 
 ### **Suggested Destinations List**:
 
 <p align="left">
- <img src="https://github.com/mel-ozkul/COMP47360/blob/main/additional-resources/features-images/suggested-destinations.png" height="250" style="border:1px solid #fff; padding:5px;">
+  <img src="./features-images/suggested-destinations.png" height="250" style="border:1px solid #fff; padding:5px;">
 </p>
 
 ### **Detailed Destination Information**:
 
 <p align="left">
- <img src="https://github.com/mel-ozkul/COMP47360/blob/main/additional-resources/features-images/more-info-description.png" height="250" style="border:1px solid #fff; padding:5px;">
- <img src="https://github.com/mel-ozkul/COMP47360/blob/main/additional-resources/features-images/more-info-hours.png" height="200" style="border:1px solid #fff; padding:5px;">
+  <img src="./features-images/more-info-description.png" height="250" style="border:1px solid #fff; padding:5px;">
+  <img src="./features-images/more-info-hours.png" height="200" style="border:1px solid #fff; padding:5px;">
 </p>
 
 ### **Itinerary Generation (ML & Algorithm)**:
 
 <p align="left">
- <img src="https://github.com/mel-ozkul/COMP47360/blob/main/additional-resources/features-images/generated-itinerary.png" height="250" style="border:1px solid #fff; padding:5px;">
+  <img src="./features-images/generated-itinerary.png" height="250" style="border:1px solid #fff; padding:5px;">
 </p>
 
 ### **Map Routing**:
 
 <p align="left">
- <img src="https://github.com/mel-ozkul/COMP47360/blob/main/additional-resources/features-images/generated-route.png" height="250" style="border:1px solid #fff; padding:5px;">
+  <img src="./features-images/generated-route.png" height="250" style="border:1px solid #fff; padding:5px;">
 </p>
 
 ### **Busyness Indicator**:
 
 <p align="left">
- <img src="https://github.com/mel-ozkul/COMP47360/blob/main/additional-resources/features-images/busyness-chart.png" height="250" style="border:1px solid #fff; padding:5px;">
+  <img src="./features-images/busyness-chart.png" height="250" style="border:1px solid #fff; padding:5px;">
 </p>
 
 ### **Home Page**:
 
 <p align="left">
- <img src="https://github.com/mel-ozkul/COMP47360/blob/main/additional-resources/features-images/home-page.png" height="400" style="border:1px solid #fff; padding:5px;">
+  <img src="./features-images/home-page.png" height="400" style="border:1px solid #fff; padding:5px;">
 </p>
 
 ### **About Page**:
 
 <p align="left">
- <img src="https://github.com/mel-ozkul/COMP47360/blob/main/additional-resources/features-images/about-page.png" height="400" style="border:1px solid #fff; padding:5px;">
+  <img src="./features-images/about-page.png" height="400" style="border:1px solid #fff; padding:5px;">
 </p>
 
 ---
