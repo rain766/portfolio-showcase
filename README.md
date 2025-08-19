@@ -9,12 +9,12 @@ http://tool_v2.5.1-currency_converter_linyuwei.surge.sh/
 ## Screenshots
 
 <p align="center">
-  <img src="https://github.com/rain766/portfolio-assets/blob/main/fx-converter/fx-converter_1.png?raw=true" width="300">
-  <img src="https://github.com/rain766/portfolio-assets/blob/main/fx-converter/fx-converter_2.png?raw=true" width="300">
+  <img src="https://github.com/rain766/portfolio-assets/blob/main/fx-converter/fx-converter_1.png?raw=true" width="250">
+  <img src="https://github.com/rain766/portfolio-assets/blob/main/fx-converter/fx-converter_2.png?raw=true" width="250">
+  <img src="https://github.com/rain766/portfolio-assets/blob/main/fx-converter/fx-converter_3.png?raw=true" width="250">
 </p>
 <p align="center">
-  <img src="https://github.com/rain766/portfolio-assets/blob/main/fx-converter/fx-converter_3.png?raw=true" width="300">
-  <img src="https://github.com/rain766/portfolio-assets/blob/main/fx-converter/fx-converter_4.png?raw=true" width="300">
+  <img src="https://github.com/rain766/portfolio-assets/blob/main/fx-converter/fx-converter_4.png?raw=true" width="500">
 </p>
 
 ## Features
