@@ -1,5 +1,3 @@
-# Public export
-
 # 🗺️ Jurnee (COMP47360 - Group 10)
 
 The **Jurnee** app was built and developed for COMP47360 by Group 10.
