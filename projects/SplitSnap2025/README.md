@@ -1,4 +1,4 @@
-SplitSnap
+# SplitSnap
 
 A modern Flask web application for secure file uploads with a beautiful drag-and-drop interface.
 
