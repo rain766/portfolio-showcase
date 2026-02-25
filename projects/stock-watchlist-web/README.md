@@ -8,6 +8,11 @@
 
 **Live Demo:** [https://markets-oracle.com/market-oracle/](https://markets-oracle.com/market-oracle/)
 
+## Screenshots
+
+![stock-watchlist-web 1](https://github.com/rain766/portfolio-assets/blob/main/stock-watchlist-web/stock-watchlist-web_1.png?raw=true)  
+![stock-watchlist-web 2](https://github.com/rain766/portfolio-assets/blob/main/stock-watchlist-web/stock-watchlist-web_2.png?raw=true)
+
 ---
 
 ## ✨ Key Features
