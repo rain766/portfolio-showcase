@@ -43,38 +43,31 @@ The system is built on an **Event-Driven, Serverless Architecture**:
 
 ---
 
-## 🔧 Installation & Setup
+## 🔧 Quick Start (UI Preview)
 
-### Prerequisites
+This repository showcases the **Frontend UI** and **System Architecture** of the project. Please note that the core backend logic (AWS Lambda) and API credentials are kept private for security and proprietary reasons.
 
-- AWS Account with CLI configured
-- Google Gemini API Key
-- Python 3.9+
+### 1. Clone the repository
 
-### Quick Start
+```bash
+git clone [TBD]
+cd [TBD]
 
-1.  **Clone the repository**
+```
 
-    ```bash
-    git clone [TBD]
-    cd [TBD]
-    ```
+### 2. View the UI Locally
 
-2.  **Environment Variables**
-    Create a `.env` file in the root directory:
+The frontend is designed as a lightweight implementation and does not require complex environment setups or backend dependencies to preview the interface.
 
-    ```env
-    GEMINI_API_KEY=your_gemini_api_key
-    AWS_REGION=eu-west-1
-    DYNAMODB_TABLE_NAME=your_table_name
-    SENDER_EMAIL=your_verified_ses_email
-    ```
+- **Option 1: Direct Open**
+  Simply locate and double-click `index.html` in your file explorer to open it in your default web browser.
+- **Option 2: Local Server (Recommended)**
+  If you have Python installed, run the following command in the project directory to ensure all resources and styles load correctly:
 
-3.  **Local Development**
-    ```bash
-    pip install -r requirements.txt
-    # [TBD: Add command to run locally, e.g., python lambda_function.py]
-    ```
+```bash
+python3 -m http.server 8000
+
+```
 
 ---
 
